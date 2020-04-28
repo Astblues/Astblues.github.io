@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>铁铁的伯爵茶</title>
-  <icon>https://astblues.github.io/austie.png</icon>
-  <subtitle>Austin Blues</subtitle>
+  <icon>https://austie.me/austie.png</icon>
+  <subtitle>The Star Blues</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://astblues.github.io/"/>
+  <link href="https://austie.me/"/>
   <updated>2020-04-26T04:51:20.759Z</updated>
-  <id>https://astblues.github.io/</id>
+  <id>https://austie.me/</id>
   
   <author>
     <name>Austie</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>中国普通菜市场被误解为病毒培养皿的背后</title>
-    <link href="https://astblues.github.io/2020/04/24/wet-market-issue/"/>
-    <id>https://astblues.github.io/2020/04/24/wet-market-issue/</id>
+    <link href="https://austie.me/2020/wet-market-issue/"/>
+    <id>https://austie.me/2020/wet-market-issue/</id>
     <published>2020-04-24T15:42:21.000Z</published>
     <updated>2020-04-26T04:51:20.759Z</updated>
     
@@ -37,14 +37,14 @@
     
     
     
-      <category term="Life" scheme="https://astblues.github.io/tags/Life/"/>
+      <category term="Life" scheme="https://austie.me/tags/Life/"/>
     
   </entry>
   
   <entry>
     <title>星辰远渡</title>
-    <link href="https://astblues.github.io/2020/04/12/reach-to-the-space/"/>
-    <id>https://astblues.github.io/2020/04/12/reach-to-the-space/</id>
+    <link href="https://austie.me/2020/reach-to-the-space/"/>
+    <id>https://austie.me/2020/reach-to-the-space/</id>
     <published>2020-04-12T13:39:20.000Z</published>
     <updated>2020-04-16T06:55:51.418Z</updated>
     
@@ -58,16 +58,16 @@
     
     
     
-      <category term="Movie" scheme="https://astblues.github.io/tags/Movie/"/>
+      <category term="Movie" scheme="https://austie.me/tags/Movie/"/>
     
-      <category term="Tech" scheme="https://astblues.github.io/tags/Tech/"/>
+      <category term="Tech" scheme="https://austie.me/tags/Tech/"/>
     
   </entry>
   
   <entry>
     <title>Talking Shits About Buying a New Phone</title>
-    <link href="https://astblues.github.io/2020/02/09/talking-shits-about-buying-a-new-phone/"/>
-    <id>https://astblues.github.io/2020/02/09/talking-shits-about-buying-a-new-phone/</id>
+    <link href="https://austie.me/2020/talking-shits-about-buying-a-new-phone/"/>
+    <id>https://austie.me/2020/talking-shits-about-buying-a-new-phone/</id>
     <published>2020-02-09T10:59:36.000Z</published>
     <updated>2020-04-16T06:56:11.310Z</updated>
     
@@ -84,14 +84,14 @@
     
     
     
-      <category term="Tech" scheme="https://astblues.github.io/tags/Tech/"/>
+      <category term="Tech" scheme="https://austie.me/tags/Tech/"/>
     
   </entry>
   
   <entry>
     <title>2019 Review</title>
-    <link href="https://astblues.github.io/2020/02/04/2019-review/"/>
-    <id>https://astblues.github.io/2020/02/04/2019-review/</id>
+    <link href="https://austie.me/2020/2019-review/"/>
+    <id>https://austie.me/2020/2019-review/</id>
     <published>2020-02-04T15:13:32.000Z</published>
     <updated>2020-04-16T06:48:40.511Z</updated>
     
@@ -103,14 +103,14 @@
     
     
     
-      <category term="Life" scheme="https://astblues.github.io/tags/Life/"/>
+      <category term="Life" scheme="https://austie.me/tags/Life/"/>
     
   </entry>
   
   <entry>
     <title>iPad十周年，它带来什么？</title>
-    <link href="https://astblues.github.io/2020/02/03/what-ipads-bring-to-us/"/>
-    <id>https://astblues.github.io/2020/02/03/what-ipads-bring-to-us/</id>
+    <link href="https://austie.me/2020/what-ipads-bring-to-us/"/>
+    <id>https://austie.me/2020/what-ipads-bring-to-us/</id>
     <published>2020-02-03T14:08:59.000Z</published>
     <updated>2020-04-25T15:51:11.714Z</updated>
     
@@ -123,14 +123,14 @@
     
     
     
-      <category term="Tech" scheme="https://astblues.github.io/tags/Tech/"/>
+      <category term="Tech" scheme="https://austie.me/tags/Tech/"/>
     
   </entry>
   
   <entry>
     <title>小飞侠，你为什么不会飞啊</title>
-    <link href="https://astblues.github.io/2020/01/27/kobe/"/>
-    <id>https://astblues.github.io/2020/01/27/kobe/</id>
+    <link href="https://austie.me/2020/kobe/"/>
+    <id>https://austie.me/2020/kobe/</id>
     <published>2020-01-27T01:45:51.000Z</published>
     <updated>2020-04-16T05:08:57.366Z</updated>
     
@@ -144,14 +144,14 @@
     
     
     
-      <category term="Life" scheme="https://astblues.github.io/tags/Life/"/>
+      <category term="Life" scheme="https://austie.me/tags/Life/"/>
     
   </entry>
   
   <entry>
     <title>About Jiong Ma</title>
-    <link href="https://astblues.github.io/2020/01/26/about-jiong-ma/"/>
-    <id>https://astblues.github.io/2020/01/26/about-jiong-ma/</id>
+    <link href="https://austie.me/2020/about-jiong-ma/"/>
+    <id>https://austie.me/2020/about-jiong-ma/</id>
     <published>2020-01-26T15:23:37.000Z</published>
     <updated>2020-04-25T14:50:32.670Z</updated>
     
@@ -163,16 +163,16 @@
     
     
     
-      <category term="Movie" scheme="https://astblues.github.io/tags/Movie/"/>
+      <category term="Movie" scheme="https://austie.me/tags/Movie/"/>
     
-      <category term="Tech" scheme="https://astblues.github.io/tags/Tech/"/>
+      <category term="Tech" scheme="https://austie.me/tags/Tech/"/>
     
   </entry>
   
   <entry>
     <title>Apple Music:复古的专辑架</title>
-    <link href="https://astblues.github.io/2020/01/11/apple-music/"/>
-    <id>https://astblues.github.io/2020/01/11/apple-music/</id>
+    <link href="https://austie.me/2020/apple-music/"/>
+    <id>https://austie.me/2020/apple-music/</id>
     <published>2020-01-11T05:43:09.000Z</published>
     <updated>2020-04-16T06:56:47.556Z</updated>
     
@@ -184,16 +184,16 @@
     
     
     
-      <category term="Tech" scheme="https://astblues.github.io/tags/Tech/"/>
+      <category term="Tech" scheme="https://austie.me/tags/Tech/"/>
     
-      <category term="Music" scheme="https://astblues.github.io/tags/Music/"/>
+      <category term="Music" scheme="https://austie.me/tags/Music/"/>
     
   </entry>
   
   <entry>
     <title>Play List of 2010s</title>
-    <link href="https://astblues.github.io/2020/01/04/play-list-of-2010s/"/>
-    <id>https://astblues.github.io/2020/01/04/play-list-of-2010s/</id>
+    <link href="https://austie.me/2020/play-list-of-2010s/"/>
+    <id>https://austie.me/2020/play-list-of-2010s/</id>
     <published>2020-01-04T09:31:50.000Z</published>
     <updated>2020-04-16T09:32:45.595Z</updated>
     
@@ -209,16 +209,16 @@
     
     
     
-      <category term="Movie" scheme="https://astblues.github.io/tags/Movie/"/>
+      <category term="Movie" scheme="https://austie.me/tags/Movie/"/>
     
-      <category term="Music" scheme="https://astblues.github.io/tags/Music/"/>
+      <category term="Music" scheme="https://austie.me/tags/Music/"/>
     
   </entry>
   
   <entry>
     <title>Manage Digital Loneliness</title>
-    <link href="https://astblues.github.io/2019/09/22/manage-digital-loneliness/"/>
-    <id>https://astblues.github.io/2019/09/22/manage-digital-loneliness/</id>
+    <link href="https://austie.me/2019/manage-digital-loneliness/"/>
+    <id>https://austie.me/2019/manage-digital-loneliness/</id>
     <published>2019-09-22T15:57:00.000Z</published>
     <updated>2020-04-16T06:52:14.082Z</updated>
     
@@ -231,14 +231,14 @@
     
     
     
-      <category term="Life" scheme="https://astblues.github.io/tags/Life/"/>
+      <category term="Life" scheme="https://austie.me/tags/Life/"/>
     
   </entry>
   
   <entry>
     <title>2018 List</title>
-    <link href="https://astblues.github.io/2018/12/30/2018-list/"/>
-    <id>https://astblues.github.io/2018/12/30/2018-list/</id>
+    <link href="https://austie.me/2018/2018-list/"/>
+    <id>https://austie.me/2018/2018-list/</id>
     <published>2018-12-30T15:30:00.000Z</published>
     <updated>2020-04-16T06:48:08.965Z</updated>
     
@@ -254,9 +254,9 @@
     
     
     
-      <category term="Tech" scheme="https://astblues.github.io/tags/Tech/"/>
+      <category term="Tech" scheme="https://austie.me/tags/Tech/"/>
     
-      <category term="Life" scheme="https://astblues.github.io/tags/Life/"/>
+      <category term="Life" scheme="https://austie.me/tags/Life/"/>
     
   </entry>
   
